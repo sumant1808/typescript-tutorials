@@ -4,6 +4,8 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "rootDir": "src",
-    "outDir": "out"
+    "outDir": "out",
+    "sourceMap": true,
+    "strict": true,
   }
 }
